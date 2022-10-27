@@ -19,6 +19,7 @@ Para isto, foi desenvolvido um modelo de Random Forest Regressor, o qual obteve 
 #### RSME:44
 
 
-### Créditos:
+
+### Créditos
 As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
 O modelo desenvolvido neste projeto é baseado em alguns aspectos da solução criada pelo Allan Bruno, a qual pode ser encontrada neste link: https://www.kaggle.com/allanbruno/helping-regular-people-price-listings-on-airbnb
